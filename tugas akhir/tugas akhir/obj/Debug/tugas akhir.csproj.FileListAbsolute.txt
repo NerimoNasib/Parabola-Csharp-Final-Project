@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\tugas akhir\tugas akhir\bin\Debug\tugas akhir.exe.config
+C:\Users\ACER\source\repos\tugas akhir\tugas akhir\bin\Debug\tugas akhir.exe
+C:\Users\ACER\source\repos\tugas akhir\tugas akhir\bin\Debug\tugas akhir.pdb
+C:\Users\ACER\source\repos\tugas akhir\tugas akhir\obj\Debug\tugas akhir.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\tugas akhir\tugas akhir\obj\Debug\tugas_akhir.Form1.resources
+C:\Users\ACER\source\repos\tugas akhir\tugas akhir\obj\Debug\tugas_akhir.Properties.Resources.resources
+C:\Users\ACER\source\repos\tugas akhir\tugas akhir\obj\Debug\tugas akhir.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\tugas akhir\tugas akhir\obj\Debug\tugas akhir.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\tugas akhir\tugas akhir\obj\Debug\tugas akhir.exe
+C:\Users\ACER\source\repos\tugas akhir\tugas akhir\obj\Debug\tugas akhir.pdb
